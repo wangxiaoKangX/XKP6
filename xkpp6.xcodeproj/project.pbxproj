@@ -16,6 +16,7 @@
 		0D9C2FB9208387E400DA5913 /* xkpp6Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D9C2FB8208387E400DA5913 /* xkpp6Tests.m */; };
 		0D9C2FC4208387E400DA5913 /* xkpp6UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D9C2FC3208387E400DA5913 /* xkpp6UITests.m */; };
 		0D9C2FD42083880700DA5913 /* Person6.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D9C2FD32083880700DA5913 /* Person6.m */; };
+		0D9C3015208391A500DA5913 /* PersonGX.m in Sources */ = {isa = PBXBuildFile; fileRef = 0D9C3014208391A500DA5913 /* PersonGX.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,8 @@
 		0D9C2FC5208387E400DA5913 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0D9C2FD22083880700DA5913 /* Person6.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Person6.h; sourceTree = "<group>"; };
 		0D9C2FD32083880700DA5913 /* Person6.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Person6.m; sourceTree = "<group>"; };
+		0D9C3013208391A500DA5913 /* PersonGX.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PersonGX.h; sourceTree = "<group>"; };
+		0D9C3014208391A500DA5913 /* PersonGX.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = PersonGX.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +144,8 @@
 			children = (
 				0D9C2FD22083880700DA5913 /* Person6.h */,
 				0D9C2FD32083880700DA5913 /* Person6.m */,
+				0D9C3013208391A500DA5913 /* PersonGX.h */,
+				0D9C3014208391A500DA5913 /* PersonGX.m */,
 			);
 			path = XKPerson6;
 			sourceTree = "<group>";
@@ -278,6 +283,7 @@
 				0D9C2FA4208387E300DA5913 /* ViewController.m in Sources */,
 				0D9C2FD42083880700DA5913 /* Person6.m in Sources */,
 				0D9C2FAF208387E400DA5913 /* main.m in Sources */,
+				0D9C3015208391A500DA5913 /* PersonGX.m in Sources */,
 				0D9C2FA1208387E300DA5913 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
